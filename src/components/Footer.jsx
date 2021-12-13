@@ -107,6 +107,14 @@ const Footer = () => {
             <Pinterest />
           </SocialIcon>
         </SocialContainer>
+        <footer>
+          <br />
+          <span>
+            Created By{" "}
+            <a href="https://www.facebook.com/mr.drust">Deni Kader</a> |
+            <span class="far fa-copyright"></span> 2021 All rights reserved.
+          </span>
+        </footer>
       </Left>
       <Center>
         <Title>Useful Links</Title>
